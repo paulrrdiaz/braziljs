@@ -1,6 +1,6 @@
 # BRAZIL JS 2016 - Summary
 ### [JAKE ARCHIBALD](https://github.com/jakearchibald) - INSTANT LOADING OFFLINE-FIRST PROGRESSIVE WEB APPS THE NEXT GENERATION
-- (http://www.html5rocks.com/en/tutorials/service-worker/introduction/)[]
+- ()[http://www.html5rocks.com/en/tutorials/service-worker/introduction/]
 - [https://developers.google.com/web/fundamentals/getting-started/your-first-offline-web-app/]
 - [https://jakearchibald.com/2015/thats-so-fetch/]
 - [https://jakearchibald.com/2016/streams-ftw/]
