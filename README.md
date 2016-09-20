@@ -32,6 +32,9 @@ Like the title said, this is a personal summary (yeah, I know, I missed some tal
 - [Demos](https://github.com/willianjusten/audio-experiments)
 - [three.js](https://github.com/mrdoob/three.js/) [p5.js](https://github.com/pixijs/pixi.js/) [pixi.js](https://github.com/pixijs/pixi.js/) [d3.js](https://github.com/d3/d3)
 
+### [DIEGO EIS](https://github.com/diegoeis) - LINKED DATA, JSON-LD E WEB SEM NTICA
+- [Presentation](http://www.slideshare.net/diegoeis/o-bsico-sobre-web-semntica-jsonld-e-linked-data)
+
 ### [STEPAN PARUNASHVILI](https://github.com/stopachka) - ON SCALING REACT APPLICATIONS
 - [Video](https://www.youtube.com/watch?v=PDe6S9GfKGA)
 - [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.ruz4fuu02)
