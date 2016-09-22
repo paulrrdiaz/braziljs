@@ -24,6 +24,7 @@ Like the title said, this is a personal summary (yeah, I know, I missed some tal
 - [Service workers explainer](https://github.com/w3c/ServiceWorker/blob/master/explainer.md)
 
 ### [TESSA MERO](https://twitter.com/TessaMero) - CONSUMING REST APIS
+- [Video](https://www.youtube.com/watch?v=FPhEHV_f3Ug)
 - [Sparks](https://developer.ciscospark.com/)
 - [Tropo API](https://www.tropo.com/)
 
@@ -33,10 +34,11 @@ Like the title said, this is a personal summary (yeah, I know, I missed some tal
 - [three.js](https://github.com/mrdoob/three.js/) [p5.js](https://github.com/pixijs/pixi.js/) [pixi.js](https://github.com/pixijs/pixi.js/) [d3.js](https://github.com/d3/d3)
 
 ### [DIEGO EIS](https://github.com/diegoeis) - LINKED DATA, JSON-LD E WEB SEM NTICA
+- [Video](https://www.youtube.com/watch?v=vAjBRcg3ydM)
 - [Presentation](http://www.slideshare.net/diegoeis/o-bsico-sobre-web-semntica-jsonld-e-linked-data)
 
 ### [STEPAN PARUNASHVILI](https://github.com/stopachka) - ON SCALING REACT APPLICATIONS
-- [Video](https://www.youtube.com/watch?v=PDe6S9GfKGA)
+- [Video](https://www.youtube.com/watch?v=b-EGIvjDYtA)
 - [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.ruz4fuu02)
 - [Introducing React Storybook](https://voice.kadira.io/introducing-react-storybook-ec27f28de1e2#.v3fhjheqq)
 - [Introduction to Immutable.js and Functional Programming Concepts](https://auth0.com/blog/intro-to-immutable-js/)
